@@ -31,7 +31,10 @@ def upload(filename):
 
 def transcribe(audio_url):
     transcript_request = {
-        'audio_url': audio_url
+        'audio_url': audio_url, 
+        'language_detection': True,
+        "disfluencies": True,
+        "speaker_labels": True
     }
 
     transcript_response = requests.post(transcript_endpoint, json=transcript_request, headers=headers)
