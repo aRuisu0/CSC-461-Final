@@ -24,9 +24,9 @@ def main():
         analysis(json_name)
         
     
-    tinput = input("Would you like to translate a transcript? y/n:")
-    if tinput.lower() == 'y':
-        translate()
+    # tinput = input("Would you like to translate a transcript? y/n:")
+    # if tinput.lower() == 'y':
+    #     translate()
      
 if __name__ == "__main__":
     main()

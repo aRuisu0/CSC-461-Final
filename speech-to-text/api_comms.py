@@ -70,6 +70,10 @@ def save_transcript(url, title, sentiment_analysis=False):
         filename = title
         with open(filename, 'w') as f:
             f.write(data['text'])
+            
+        tinput = input("Would you like to translate a transcript? y/n:")
+        if tinput.lower() == 'y':
+            filename = translate(filename)
              
         if sentiment_analysis:
             title = title.strip().replace(".txt", "_sentiments.json")
