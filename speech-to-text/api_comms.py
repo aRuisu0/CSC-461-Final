@@ -1,3 +1,4 @@
+import textwrap
 import requests
 import json
 import time
@@ -68,8 +69,9 @@ def save_transcript(url, title, sentiment_analysis=False):
     if data:
         title = title.strip().replace(".wav", ".txt")
         filename = title
+        my_wrap = textwrap.TextWrapper(width = 60)
         with open(filename, 'w') as f:
-            f.write(data['text'])
+            f.write(my_wrap.fill(data['text']))
             
         tinput = input("Would you like to translate a transcript? y/n:")
         if tinput.lower() == 'y':

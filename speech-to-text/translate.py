@@ -9,7 +9,7 @@ def translate(file_name):
     result_file = translator.translate_file(file_name)
     translated_text = 'translated_text.txt'
     with open(translated_text, mode= 'w+', encoding='utf-8') as f:
-            f.write(result_file)
+            f.write(result_file + '\n')
     
     return translated_text
     # print("file translation: ", result_file)
