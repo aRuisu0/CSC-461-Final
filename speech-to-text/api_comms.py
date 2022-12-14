@@ -1,5 +1,7 @@
 import requests
+import json
 import time
+from translate  import*
 from api_code import API_KEY_ASSEMBLYAI
 
 
@@ -15,7 +17,7 @@ headers = {
 
 CHUNK_SIZE = 5_242_880  # 5MB
 
-# Upload file to Assembly AI to read file in chunks
+
 def upload(filename):
     def read_file(filename):
         with open(filename, 'rb') as f:
@@ -28,27 +30,27 @@ def upload(filename):
     upload_response = requests.post(upload_endpoint, headers=headers_auth_only, data=read_file(filename))
     return upload_response.json()['upload_url']
 
-# Takes audio to do the translations (Assembly AI Documentation provides other parameters we can use to add)
-def transcribe(audio_url):
+
+def transcribe(audio_url, sentiment_analysis):
     transcript_request = {
         'audio_url': audio_url, 
         'language_detection': True,
-        "disfluencies": True,
-        "speaker_labels": True
+
+        "sentiment_analysis": sentiment_analysis
     }
 
     transcript_response = requests.post(transcript_endpoint, json=transcript_request, headers=headers)
     return transcript_response.json()['id']
 
-# Submit a polling request with the transcripted audio
+        
 def poll(transcript_id):
     polling_endpoint = transcript_endpoint + '/' + transcript_id
     polling_response = requests.get(polling_endpoint, headers=headers)
     return polling_response.json()
 
-# Get the results from AI
-def get_transcription_result_url(url):
-    transcribe_id = transcribe(url)
+
+def get_transcription_result_url(url, sentiment_analysis):
+    transcribe_id = transcribe(url, sentiment_analysis)
     while True:
         data = poll(transcribe_id)
         if data['status'] == 'completed':
@@ -59,14 +61,25 @@ def get_transcription_result_url(url):
         print("waiting for 30 seconds")
         time.sleep(30)
         
-# Save transcript to a text file 
-def save_transcript(url, filename):
-    data, error = get_transcription_result_url(url)
+        
+def save_transcript(url, title, sentiment_analysis=False):
+    data, error = get_transcription_result_url(url, sentiment_analysis)
     
     if data:
-        text_filename = filename + '.txt'
-        with open(text_filename, 'w') as f:
+        title = title.strip().replace(".wav", ".txt")
+        filename = title
+        with open(filename, 'w') as f:
             f.write(data['text'])
+             
+        if sentiment_analysis:
+            title = title.strip().replace(".txt", "_sentiments.json")
+            filename = title
+                
+            with open(filename, 'w') as f:
+                sentiments = data['sentiment_analysis_results']
+                json.dump(sentiments, f, indent=4)
         print('Transcript saved')
+        
     elif error:
         print("Error!!!", error)
+        return False

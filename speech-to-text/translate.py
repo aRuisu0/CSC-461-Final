@@ -3,7 +3,7 @@ from deep_translator import GoogleTranslator
 
 def translate():
     # examples using google translate
-    translator = GoogleTranslator(source="auto", target="english")
+    translator = GoogleTranslator(source="auto", target="spanish")
 
     # file translation
     file_name = input('Enter name of file to translate (File must be in same directory): ')
