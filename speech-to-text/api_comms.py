@@ -15,7 +15,7 @@ headers = {
 
 CHUNK_SIZE = 5_242_880  # 5MB
 
-
+# Upload file to Assembly AI to read file in chunks
 def upload(filename):
     def read_file(filename):
         with open(filename, 'rb') as f:
@@ -28,7 +28,7 @@ def upload(filename):
     upload_response = requests.post(upload_endpoint, headers=headers_auth_only, data=read_file(filename))
     return upload_response.json()['upload_url']
 
-
+# Takes audio to do the translations (Assembly AI Documentation provides other parameters we can use to add)
 def transcribe(audio_url):
     transcript_request = {
         'audio_url': audio_url, 
@@ -40,13 +40,13 @@ def transcribe(audio_url):
     transcript_response = requests.post(transcript_endpoint, json=transcript_request, headers=headers)
     return transcript_response.json()['id']
 
-        
+# Submit a polling request with the transcripted audio
 def poll(transcript_id):
     polling_endpoint = transcript_endpoint + '/' + transcript_id
     polling_response = requests.get(polling_endpoint, headers=headers)
     return polling_response.json()
 
-
+# Get the results from AI
 def get_transcription_result_url(url):
     transcribe_id = transcribe(url)
     while True:
@@ -59,7 +59,7 @@ def get_transcription_result_url(url):
         print("waiting for 30 seconds")
         time.sleep(30)
         
-        
+# Save transcript to a text file 
 def save_transcript(url, filename):
     data, error = get_transcription_result_url(url)
     
