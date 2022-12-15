@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Please call Stella.",
+        "start": 570,
+        "end": 1946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8387889266014099,
+        "speaker": "A"
+    },
+    {
+        "text": "Ask her to bring these things with her from the store.",
+        "start": 2058,
+        "end": 4558,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8979294896125793,
+        "speaker": "A"
+    },
+    {
+        "text": "Six spoons of fresh snow peas, five thick slabs of blue cheese and maybe a snack for her brother Bob.",
+        "start": 4724,
+        "end": 10810,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.802465558052063,
+        "speaker": "A"
+    },
+    {
+        "text": "We also need a small plastic snake and a big toy frog for the kids.",
+        "start": 10970,
+        "end": 14880,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6410605311393738,
+        "speaker": "A"
+    },
+    {
+        "text": "She can scoop these things into three red bags and we will go meet her Wednesday at the train station.",
+        "start": 15250,
+        "end": 20170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8211463093757629,
+        "speaker": "A"
+    }
+]
