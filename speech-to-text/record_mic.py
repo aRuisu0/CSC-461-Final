@@ -24,8 +24,10 @@ def record():
     print("Start Recording...")
 
     frames = []
-    seconds = 5
-    for i in range(0, int(RATE / FRAMES_PER_BUFFER * seconds)):
+    seconds = 20
+    total = RATE / FRAMES_PER_BUFFER * seconds
+    for i in range(0, int(total)):
+        print(i)
         # Read each chunk of data
         data = stream.read(FRAMES_PER_BUFFER)
         frames.append(data)
@@ -38,7 +40,8 @@ def record():
 
     # Output .wav file with audio format
     file_name = input('Enter a name for the output file: ') + '.wav'
-    wf = wave.open(file_name, 'wb')
+    output = os.path.join("wav", file_name)
+    wf = wave.open(output, 'wb')
     wf.setnchannels(CHANNELS)
     wf.setsampwidth(rec.get_sample_size(FORMAT))
     wf.setframerate(RATE)

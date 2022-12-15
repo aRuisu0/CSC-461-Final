@@ -4,7 +4,7 @@ import json
 import time
 from translate  import*
 from api_code import API_KEY_ASSEMBLYAI
-
+import os
 
 upload_endpoint = 'https://api.assemblyai.com/v2/upload'
 transcript_endpoint = 'https://api.assemblyai.com/v2/transcript'
@@ -36,7 +36,7 @@ def transcribe(audio_url, sentiment_analysis):
     transcript_request = {
         'audio_url': audio_url, 
         'language_detection': True,
-
+        "speaker_labels": True,
         "sentiment_analysis": sentiment_analysis
     }
 
@@ -70,7 +70,8 @@ def save_transcript(url, title, sentiment_analysis=False):
         title = title.strip().replace(".wav", ".txt")
         filename = title
         my_wrap = textwrap.TextWrapper(width = 60)
-        with open(filename, 'w') as f:
+        input_file = os.path.join("transcripts", filename)
+        with open(input_file, 'w') as f:
             f.write(my_wrap.fill(data['text']))
             
         tinput = input("Would you like to translate a transcript? y/n:")
@@ -80,8 +81,8 @@ def save_transcript(url, title, sentiment_analysis=False):
         if sentiment_analysis:
             title = title.strip().replace(".txt", "_sentiments.json")
             filename = title
-                
-            with open(filename, 'w') as f:
+            transc_file = os.path.join("sentiments", filename)
+            with open(transc_file, 'w') as f:
                 sentiments = data['sentiment_analysis_results']
                 json.dump(sentiments, f, indent=4)
         print('Transcript saved')
