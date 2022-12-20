@@ -1,0 +1,146 @@
+[
+    {
+        "text": "1 minute reviews.",
+        "start": 410,
+        "end": 1578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330917716026306,
+        "speaker": "A"
+    },
+    {
+        "text": "Paper mario sticker star ready.",
+        "start": 1674,
+        "end": 3998,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7051584124565125,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 4084,
+        "end": 4670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.535232424736023,
+        "speaker": "A"
+    },
+    {
+        "text": "It's good, but it's not the RPG that you expect.",
+        "start": 4820,
+        "end": 7438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4601885676383972,
+        "speaker": "A"
+    },
+    {
+        "text": "For example, the battles have been stripped away a lot of their RPG elements from the games of series past.",
+        "start": 7524,
+        "end": 11358,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5730884671211243,
+        "speaker": "A"
+    },
+    {
+        "text": "The game is all about collecting stickers and using those stickers in battle, and once the sticker is used, it's gone.",
+        "start": 11444,
+        "end": 15102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7148959636688232,
+        "speaker": "A"
+    },
+    {
+        "text": "So the game is more about resource management than strategy or leveling.",
+        "start": 15156,
+        "end": 17866,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7289031147956848,
+        "speaker": "A"
+    },
+    {
+        "text": "There's almost no reward for Battles.",
+        "start": 17898,
+        "end": 19306,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5405853390693665,
+        "speaker": "A"
+    },
+    {
+        "text": "The only thing you get from battling is coins, and the only thing you spend your coins on are more stickers.",
+        "start": 19338,
+        "end": 23162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7026350498199463,
+        "speaker": "A"
+    },
+    {
+        "text": "In that aspect, the RPG elements are much more airbones, but still has the talent and plenty of side quests for you to do.",
+        "start": 23226,
+        "end": 27670,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6309478878974915,
+        "speaker": "A"
+    },
+    {
+        "text": "The game is easy except for boss battles.",
+        "start": 27740,
+        "end": 29234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8058012127876282,
+        "speaker": "A"
+    },
+    {
+        "text": "Those are really tough and causes extreme spikes and difficulty.",
+        "start": 29282,
+        "end": 31682,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7173322439193726,
+        "speaker": "A"
+    },
+    {
+        "text": "It's still presented really well.",
+        "start": 31746,
+        "end": 32934,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9027335047721863,
+        "speaker": "A"
+    },
+    {
+        "text": "The 3D effects are excellent and the music is really catchy.",
+        "start": 32972,
+        "end": 35474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9888534545898438,
+        "speaker": "A"
+    },
+    {
+        "text": "It's still a lot of fun to play.",
+        "start": 35522,
+        "end": 36694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9354050755500793,
+        "speaker": "A"
+    },
+    {
+        "text": "I definitely recommend checking it out or buying it if you can find it for a good price.",
+        "start": 36732,
+        "end": 39894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9438314437866211,
+        "speaker": "A"
+    },
+    {
+        "text": "Once you get past and accept the missing RPT elements and take the game for what it is, it's a good game and it's worth your time.",
+        "start": 40012,
+        "end": 46470,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9456073641777039,
+        "speaker": "A"
+    },
+    {
+        "text": "Paper Mario StickerStar gets a seven out of ten.",
+        "start": 46620,
+        "end": 49380,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5028169751167297,
+        "speaker": "A"
+    }
+]

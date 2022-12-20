@@ -1,0 +1,114 @@
+[
+    {
+        "text": "1 minute review.",
+        "start": 410,
+        "end": 1518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824267148971558,
+        "speaker": "A"
+    },
+    {
+        "text": "Sin City.",
+        "start": 1684,
+        "end": 2720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6916743516921997,
+        "speaker": "A"
+    },
+    {
+        "text": "Ready?",
+        "start": 3410,
+        "end": 3918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6723923087120056,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 4004,
+        "end": 4398,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352324843406677,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 4484,
+        "end": 5422,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 5476,
+        "end": 6382,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 6436,
+        "end": 7342,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Oh, what the hell.",
+        "start": 7396,
+        "end": 8366,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9054778814315796,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 8468,
+        "end": 9422,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 9476,
+        "end": 10334,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Work, damn it.",
+        "start": 10372,
+        "end": 11342,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380101919174194,
+        "speaker": "A"
+    },
+    {
+        "text": "Ah, there we go.",
+        "start": 11396,
+        "end": 12414,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5325239300727844,
+        "speaker": "A"
+    },
+    {
+        "text": "Fuck it.",
+        "start": 12532,
+        "end": 13086,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9206488728523254,
+        "speaker": "A"
+    },
+    {
+        "text": "I'm going to bed.",
+        "start": 13108,
+        "end": 13660,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6310514211654663,
+        "speaker": "A"
+    }
+]

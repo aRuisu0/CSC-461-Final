@@ -1,0 +1,3 @@
+Num positives: 10
+Num negatives: 2
+Num neutrals: 19

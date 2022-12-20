@@ -1,0 +1,130 @@
+[
+    {
+        "text": "1 minute reviews.",
+        "start": 410,
+        "end": 1578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330918908119202,
+        "speaker": "A"
+    },
+    {
+        "text": "Nintendo land ready go.",
+        "start": 1674,
+        "end": 4318,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5946377515792847,
+        "speaker": "A"
+    },
+    {
+        "text": "Much better than I expected.",
+        "start": 4484,
+        "end": 5706,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8225388526916504,
+        "speaker": "A"
+    },
+    {
+        "text": "It really gives you a good idea of all the different things that the new gamepad can do.",
+        "start": 5738,
+        "end": 8974,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9336585998535156,
+        "speaker": "A"
+    },
+    {
+        "text": "I was really surprised by how much fun I was having with all the different minigames based on old Nintendo franchises.",
+        "start": 9092,
+        "end": 13498,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9816827774047852,
+        "speaker": "A"
+    },
+    {
+        "text": "Some of them are really good, especially when played multiplayer.",
+        "start": 13594,
+        "end": 16042,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9780608415603638,
+        "speaker": "A"
+    },
+    {
+        "text": "Probably the best games on there are the Pikmin one, the Metroid one, and the Donkey Kong one.",
+        "start": 16106,
+        "end": 19982,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9773642420768738,
+        "speaker": "A"
+    },
+    {
+        "text": "The only one that really sucks is the Octopus dancing.",
+        "start": 20036,
+        "end": 22250,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9669383764266968,
+        "speaker": "A"
+    },
+    {
+        "text": "A lot of the games are only okay by yourself.",
+        "start": 22330,
+        "end": 24062,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5099983215332031,
+        "speaker": "A"
+    },
+    {
+        "text": "You get a lot more fun out of if you play with more friends.",
+        "start": 24116,
+        "end": 25990,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9506371021270752,
+        "speaker": "A"
+    },
+    {
+        "text": "So, you know, if you're going to be playing your Wii U with a lot of people around, nintendo Land is absolutely worth a purchase.",
+        "start": 26060,
+        "end": 30370,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9361673593521118,
+        "speaker": "A"
+    },
+    {
+        "text": "To be honest, I was having so much fun with Nintendo Land that I kept going back to it.",
+        "start": 30450,
+        "end": 33958,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9620757699012756,
+        "speaker": "A"
+    },
+    {
+        "text": "It has a lot of variety.",
+        "start": 34044,
+        "end": 35362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4919191598892212,
+        "speaker": "A"
+    },
+    {
+        "text": "It can really show you the ropes of what the gamepad can do.",
+        "start": 35426,
+        "end": 37750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5821438431739807,
+        "speaker": "A"
+    },
+    {
+        "text": "And I think it's a better packing title than Wii Sports was.",
+        "start": 37820,
+        "end": 40694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7579131126403809,
+        "speaker": "A"
+    },
+    {
+        "text": "For the original Wii, Nintendo Land earns an eight out of ten.",
+        "start": 40732,
+        "end": 45140,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5862365961074829,
+        "speaker": "A"
+    }
+]

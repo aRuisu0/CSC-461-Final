@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Hello, my name is Adrian Sekajar Ruiz, and I am a computer science major at Uri.",
+        "start": 650,
+        "end": 5450,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.871927797794342,
+        "speaker": "A"
+    },
+    {
+        "text": "I love computer science, but I also hate it.",
+        "start": 5610,
+        "end": 8062,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6076657772064209,
+        "speaker": "A"
+    },
+    {
+        "text": "The best part about computer science is that it pays well, but it is also really hard.",
+        "start": 8116,
+        "end": 12510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6934871077537537,
+        "speaker": "A"
+    },
+    {
+        "text": "I enjoy the campus, but at the same time I am not a fan of it.",
+        "start": 12660,
+        "end": 15806,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4413767158985138,
+        "speaker": "A"
+    },
+    {
+        "text": "During the winter, I just want to go home really, really bad.",
+        "start": 15828,
+        "end": 18700,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9466181397438049,
+        "speaker": "A"
+    }
+]

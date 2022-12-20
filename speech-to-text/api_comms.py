@@ -79,7 +79,7 @@ def save_transcript(url, title, sentiment_analysis=False):
             filename = translate(filename)
              
         if sentiment_analysis:
-            title = title.strip().replace(".txt", "_sentiments.json")
+            title = title.strip().replace(".txt", ".json")
             filename = title
             transc_file = os.path.join("sentiments", filename)
             with open(transc_file, 'w') as f:

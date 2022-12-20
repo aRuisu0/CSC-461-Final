@@ -1,0 +1,122 @@
+[
+    {
+        "text": "1 minute review.",
+        "start": 410,
+        "end": 1518,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824268341064453,
+        "speaker": "A"
+    },
+    {
+        "text": "Aliens?",
+        "start": 1684,
+        "end": 2394,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8059778809547424,
+        "speaker": "A"
+    },
+    {
+        "text": "Colonial Marines.",
+        "start": 2442,
+        "end": 3870,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6641457080841064,
+        "speaker": "A"
+    },
+    {
+        "text": "Ready?",
+        "start": 4450,
+        "end": 4910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6723923683166504,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 4980,
+        "end": 5600,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352325439453125,
+        "speaker": "A"
+    },
+    {
+        "text": "It's bad.",
+        "start": 5970,
+        "end": 7086,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.862938404083252,
+        "speaker": "A"
+    },
+    {
+        "text": "It's really bad.",
+        "start": 7268,
+        "end": 8558,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9358737468719482,
+        "speaker": "A"
+    },
+    {
+        "text": "The singleplayer campaign is one of the most disappointing things, with some of the worst enemy AI.",
+        "start": 8644,
+        "end": 13498,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9806445240974426,
+        "speaker": "A"
+    },
+    {
+        "text": "Terrible cutscenes and awful story with a completely stupid, insulting ending that I have ever seen.",
+        "start": 13594,
+        "end": 20318,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9834836721420288,
+        "speaker": "A"
+    },
+    {
+        "text": "Every alien dies so quickly.",
+        "start": 20484,
+        "end": 22142,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9115041494369507,
+        "speaker": "A"
+    },
+    {
+        "text": "You just plow through everything, making you never feel threatened, never feel challenged, and then you're not having any fun.",
+        "start": 22196,
+        "end": 28134,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7570515871047974,
+        "speaker": "A"
+    },
+    {
+        "text": "The best feature it has is playing as aliens in the multiplayer mode, and controlling an alien is absolutely terrible.",
+        "start": 28252,
+        "end": 35138,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5206483006477356,
+        "speaker": "A"
+    },
+    {
+        "text": "There's really nothing good worth mentioning about this game, but at least it functions.",
+        "start": 35234,
+        "end": 40722,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.42058026790618896,
+        "speaker": "A"
+    },
+    {
+        "text": "This game sucks.",
+        "start": 40866,
+        "end": 42082,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9737786054611206,
+        "speaker": "A"
+    },
+    {
+        "text": "Aliens Colonial marines gets a two out of ten.",
+        "start": 42226,
+        "end": 45540,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7918866276741028,
+        "speaker": "A"
+    }
+]

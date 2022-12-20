@@ -1,0 +1,250 @@
+[
+    {
+        "text": "1 minute review is XCOM enemy unknown.",
+        "start": 250,
+        "end": 2682,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6634564399719238,
+        "speaker": "A"
+    },
+    {
+        "text": "Ready?",
+        "start": 2746,
+        "end": 3118,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6723924279212952,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 3204,
+        "end": 3790,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352325439453125,
+        "speaker": "A"
+    },
+    {
+        "text": "Oh, my God.",
+        "start": 3940,
+        "end": 4606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.44471031427383423,
+        "speaker": "A"
+    },
+    {
+        "text": "I love this game.",
+        "start": 4628,
+        "end": 5422,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9882662892341614,
+        "speaker": "A"
+    },
+    {
+        "text": "It's amazing.",
+        "start": 5476,
+        "end": 6430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9510914087295532,
+        "speaker": "A"
+    },
+    {
+        "text": "It is a topdown strategy game, pure and simple.",
+        "start": 6580,
+        "end": 9838,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6332424283027649,
+        "speaker": "A"
+    },
+    {
+        "text": "It's turn based combat with a lot of base operations outside of that, and it's phenomenal.",
+        "start": 9924,
+        "end": 14474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8374696969985962,
+        "speaker": "A"
+    },
+    {
+        "text": "It's very, very.",
+        "start": 14522,
+        "end": 15262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6114830374717712,
+        "speaker": "A"
+    },
+    {
+        "text": "Similar to the original.",
+        "start": 15316,
+        "end": 16266,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7984098196029663,
+        "speaker": "B"
+    },
+    {
+        "text": "One, but not exactly the same, which is good because they updated it, so.",
+        "start": 16298,
+        "end": 19646,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7892152667045593,
+        "speaker": "A"
+    },
+    {
+        "text": "It works really, really well.",
+        "start": 19668,
+        "end": 20670,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9460136890411377,
+        "speaker": "B"
+    },
+    {
+        "text": "With what they have nowadays.",
+        "start": 20740,
+        "end": 22218,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6123273372650146,
+        "speaker": "A"
+    },
+    {
+        "text": "I love all the aliens to fight.",
+        "start": 22314,
+        "end": 23694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8268852829933167,
+        "speaker": "A"
+    },
+    {
+        "text": "I really enjoy the tactics called combat.",
+        "start": 23732,
+        "end": 25986,
+        "sentiment": "POSITIVE",
+        "confidence": 0.974953830242157,
+        "speaker": "A"
+    },
+    {
+        "text": "I love how challenging it is.",
+        "start": 26098,
+        "end": 27862,
+        "sentiment": "POSITIVE",
+        "confidence": 0.956123948097229,
+        "speaker": "A"
+    },
+    {
+        "text": "The Iron Man mode, which makes it that you can only have one save file and you can't make your own saves.",
+        "start": 27916,
+        "end": 32322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6515058875083923,
+        "speaker": "A"
+    },
+    {
+        "text": "Makes it very, very difficult and a lot of fun.",
+        "start": 32386,
+        "end": 35222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.3798762559890747,
+        "speaker": "A"
+    },
+    {
+        "text": "Lots of replayability with a lot of options.",
+        "start": 35356,
+        "end": 37350,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4996938705444336,
+        "speaker": "A"
+    },
+    {
+        "text": "Different researches.",
+        "start": 37420,
+        "end": 38146,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7811916470527649,
+        "speaker": "B"
+    },
+    {
+        "text": "Different places to start.",
+        "start": 38178,
+        "end": 39206,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7725500464439392,
+        "speaker": "A"
+    },
+    {
+        "text": "There are some minor.",
+        "start": 39308,
+        "end": 40178,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8198624849319458,
+        "speaker": "A"
+    },
+    {
+        "text": "Grievances, like looks.",
+        "start": 40194,
+        "end": 41366,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7223339676856995,
+        "speaker": "B"
+    },
+    {
+        "text": "Like the character shoots her walls if.",
+        "start": 41388,
+        "end": 42806,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.621828019618988,
+        "speaker": "A"
+    },
+    {
+        "text": "A camera gets weird in combat.",
+        "start": 42828,
+        "end": 44066,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6915428042411804,
+        "speaker": "B"
+    },
+    {
+        "text": "Or you can't select the tile that you want.",
+        "start": 44098,
+        "end": 45526,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6079759001731873,
+        "speaker": "A"
+    },
+    {
+        "text": "What's above another one?",
+        "start": 45548,
+        "end": 46630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7894850373268127,
+        "speaker": "A"
+    },
+    {
+        "text": "But these are all very minor annoyances.",
+        "start": 46700,
+        "end": 49026,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6179975867271423,
+        "speaker": "A"
+    },
+    {
+        "text": "I highly recommend menu.",
+        "start": 49138,
+        "end": 50266,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9265321493148804,
+        "speaker": "A"
+    },
+    {
+        "text": "Go out and buy this.",
+        "start": 50298,
+        "end": 51070,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6387158632278442,
+        "speaker": "A"
+    },
+    {
+        "text": "And if you're someone who needs a score, ExCom Enemy Unknown gets a nine out of ten.",
+        "start": 51140,
+        "end": 55980,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7714276313781738,
+        "speaker": "A"
+    }
+]

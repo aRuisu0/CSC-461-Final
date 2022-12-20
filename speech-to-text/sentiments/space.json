@@ -1,0 +1,178 @@
+[
+    {
+        "text": "1 minute review.",
+        "start": 490,
+        "end": 1550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824268341064453,
+        "speaker": "A"
+    },
+    {
+        "text": "Dead space three ready?",
+        "start": 1700,
+        "end": 3998,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8811634182929993,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 4084,
+        "end": 4430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.535232424736023,
+        "speaker": "A"
+    },
+    {
+        "text": "It's kind of good.",
+        "start": 4500,
+        "end": 5166,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9780338406562805,
+        "speaker": "A"
+    },
+    {
+        "text": "Forget about the demo for a second.",
+        "start": 5188,
+        "end": 6382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5005900859832764,
+        "speaker": "A"
+    },
+    {
+        "text": "It still has plenty of tense moments inside of their electric ships with stuff jumping out of vents, but it certainly has a definite greater focus on action because of this.",
+        "start": 6436,
+        "end": 12766,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5621147155761719,
+        "speaker": "A"
+    },
+    {
+        "text": "You end up with way too much ammo with way too much help, making the whole game insultingly easy.",
+        "start": 12788,
+        "end": 17038,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.777903139591217,
+        "speaker": "A"
+    },
+    {
+        "text": "There are still puzzles sprinkle throughout the whole game, and those are pretty decent.",
+        "start": 17124,
+        "end": 19802,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9337630867958069,
+        "speaker": "A"
+    },
+    {
+        "text": "There are still a few great Dead Space style set pieces, but those are punctuated by really stupid action moments.",
+        "start": 19866,
+        "end": 24834,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.4686356484889984,
+        "speaker": "A"
+    },
+    {
+        "text": "There is a lack of creativity in the enemy types.",
+        "start": 24922,
+        "end": 26738,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7923598885536194,
+        "speaker": "A"
+    },
+    {
+        "text": "There's a lot of repeat enemies from the first two games, and not much else beyond that.",
+        "start": 26754,
+        "end": 30022,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5424354076385498,
+        "speaker": "A"
+    },
+    {
+        "text": "The ability to dodge roll is a much welcome addition.",
+        "start": 30076,
+        "end": 32034,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9730503559112549,
+        "speaker": "A"
+    },
+    {
+        "text": "However, the COVID mechanic is absolutely worthless.",
+        "start": 32082,
+        "end": 34562,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9521421790122986,
+        "speaker": "A"
+    },
+    {
+        "text": "There's no point to having this in the game.",
+        "start": 34626,
+        "end": 36150,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8130139708518982,
+        "speaker": "A"
+    },
+    {
+        "text": "I like that exploration is worthwhile going off the objective pass does yield some pretty good rewards.",
+        "start": 36220,
+        "end": 41154,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9549524784088135,
+        "speaker": "A"
+    },
+    {
+        "text": "The Coop mode is enjoyable.",
+        "start": 41282,
+        "end": 42546,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9518757462501526,
+        "speaker": "A"
+    },
+    {
+        "text": "It doesn't really ruin the experience at all, but it's only really enjoyable if you played on higher difficulties.",
+        "start": 42578,
+        "end": 46882,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5764265656471252,
+        "speaker": "A"
+    },
+    {
+        "text": "You do get good value for your money because there's lots of replayability.",
+        "start": 46946,
+        "end": 49570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8920484781265259,
+        "speaker": "A"
+    },
+    {
+        "text": "There are several different game modes that you can unlock.",
+        "start": 49650,
+        "end": 51898,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6572681069374084,
+        "speaker": "A"
+    },
+    {
+        "text": "It ends up being a decent horror game that gets watered down too much by action and trying to go for mass appeal.",
+        "start": 51994,
+        "end": 57066,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5423771142959595,
+        "speaker": "A"
+    },
+    {
+        "text": "It certainly isn't as good as Dead Space One or two.",
+        "start": 57098,
+        "end": 59630,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8974758386611938,
+        "speaker": "A"
+    },
+    {
+        "text": "Dead Space Three gets a seven out of ten.",
+        "start": 59780,
+        "end": 62540,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7934737205505371,
+        "speaker": "A"
+    }
+]

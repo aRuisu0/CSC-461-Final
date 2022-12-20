@@ -1,0 +1,146 @@
+[
+    {
+        "text": "1 minute review.",
+        "start": 410,
+        "end": 1550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824268341064453,
+        "speaker": "A"
+    },
+    {
+        "text": "The Oregon Trail.",
+        "start": 1700,
+        "end": 3290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7851184010505676,
+        "speaker": "A"
+    },
+    {
+        "text": "Ready?",
+        "start": 3450,
+        "end": 3918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6723925471305847,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 4004,
+        "end": 4302,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352324843406677,
+        "speaker": "A"
+    },
+    {
+        "text": "It's just like the Oregon Trail, but this time with zombies.",
+        "start": 4356,
+        "end": 6714,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.4933334290981293,
+        "speaker": "A"
+    },
+    {
+        "text": "And just like the Oregon Trail, you'll need to create a party of five people and get them to the safe haven you'll constantly need to scavenge for supplies.",
+        "start": 6762,
+        "end": 13050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5034558773040771,
+        "speaker": "A"
+    },
+    {
+        "text": "You can also trade and do some jobs at town to get more.",
+        "start": 13130,
+        "end": 15918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7007905840873718,
+        "speaker": "A"
+    },
+    {
+        "text": "It essentially has a bunch of minigames to get you through the game, but none of them are especially exciting.",
+        "start": 16004,
+        "end": 20538,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6874388456344604,
+        "speaker": "A"
+    },
+    {
+        "text": "If anything, a lot of them are too similar to each other, and certain ones get repeated too often.",
+        "start": 20634,
+        "end": 24886,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5570393204689026,
+        "speaker": "A"
+    },
+    {
+        "text": "And they aren't very difficult.",
+        "start": 24948,
+        "end": 26214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.624229907989502,
+        "speaker": "A"
+    },
+    {
+        "text": "The most unique thing this game has is having one of your party members get bit by a zombie.",
+        "start": 26332,
+        "end": 30082,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7577303647994995,
+        "speaker": "A"
+    },
+    {
+        "text": "You can either use up more supplies to keep them alive or end their misery.",
+        "start": 30146,
+        "end": 33346,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8298670053482056,
+        "speaker": "A"
+    },
+    {
+        "text": "But the final mission of the game is easier the more party members you have alive.",
+        "start": 33458,
+        "end": 36930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7458963394165039,
+        "speaker": "A"
+    },
+    {
+        "text": "But even the final mission isn't all that cool or difficult.",
+        "start": 37010,
+        "end": 39750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.458646297454834,
+        "speaker": "A"
+    },
+    {
+        "text": "It's not really a game that will retain your attention or make you want to go back to it.",
+        "start": 39900,
+        "end": 43606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5329853892326355,
+        "speaker": "A"
+    },
+    {
+        "text": "But you may get a couple of hours of entertainment from it.",
+        "start": 43708,
+        "end": 45894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7196944355964661,
+        "speaker": "A"
+    },
+    {
+        "text": "And it's only $5 on Steam.",
+        "start": 45932,
+        "end": 48066,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5173938274383545,
+        "speaker": "A"
+    },
+    {
+        "text": "The Oregon Trail gets six out of ten.",
+        "start": 48178,
+        "end": 51100,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7053521871566772,
+        "speaker": "A"
+    }
+]

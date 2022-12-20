@@ -1,0 +1,194 @@
+[
+    {
+        "text": "1 minute review.",
+        "start": 490,
+        "end": 1470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824267148971558,
+        "speaker": "A"
+    },
+    {
+        "text": "Assassins Creed three.",
+        "start": 1620,
+        "end": 3054,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8213518261909485,
+        "speaker": "A"
+    },
+    {
+        "text": "Ready?",
+        "start": 3172,
+        "end": 3598,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6723923683166504,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 3684,
+        "end": 4174,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352324843406677,
+        "speaker": "A"
+    },
+    {
+        "text": "It's good.",
+        "start": 4292,
+        "end": 4814,
+        "sentiment": "POSITIVE",
+        "confidence": 0.944523811340332,
+        "speaker": "A"
+    },
+    {
+        "text": "I like it quite a bit.",
+        "start": 4852,
+        "end": 5646,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9366031885147095,
+        "speaker": "A"
+    },
+    {
+        "text": "It actually feels like more like a franchise evolution instead of some sort of crappy expansion pack.",
+        "start": 5668,
+        "end": 9502,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5282337665557861,
+        "speaker": "A"
+    },
+    {
+        "text": "The new setting goes a long way to make the whole game feel a lot more fresh.",
+        "start": 9556,
+        "end": 12714,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9609447717666626,
+        "speaker": "A"
+    },
+    {
+        "text": "I really enjoy the new outdoors areas.",
+        "start": 12762,
+        "end": 14298,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9863757491111755,
+        "speaker": "A"
+    },
+    {
+        "text": "Some of them are really impressive in terms of scope and the freedom of movement you have through all the streets.",
+        "start": 14314,
+        "end": 18026,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9590542912483215,
+        "speaker": "A"
+    },
+    {
+        "text": "There are a lot of different things that you can do to keep you playing.",
+        "start": 18058,
+        "end": 20346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8161728382110596,
+        "speaker": "A"
+    },
+    {
+        "text": "The hunting is really cool.",
+        "start": 20378,
+        "end": 21374,
+        "sentiment": "POSITIVE",
+        "confidence": 0.978634238243103,
+        "speaker": "A"
+    },
+    {
+        "text": "I really like the all new ship battles.",
+        "start": 21412,
+        "end": 23290,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9807149171829224,
+        "speaker": "A"
+    },
+    {
+        "text": "The online multiplayer is a decent distraction, but it's nothing that's going to hold your attention.",
+        "start": 23370,
+        "end": 26738,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5690938830375671,
+        "speaker": "A"
+    },
+    {
+        "text": "The improved graphics engine is very impressive.",
+        "start": 26834,
+        "end": 28706,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9780917763710022,
+        "speaker": "A"
+    },
+    {
+        "text": "It can hold a lot of characters on screen, even though they all look like they're wearing lip gloss.",
+        "start": 28738,
+        "end": 32146,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.630073070526123,
+        "speaker": "A"
+    },
+    {
+        "text": "The story is really good and there are a bunch of hidden items everywhere for you to find.",
+        "start": 32258,
+        "end": 35382,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9850665330886841,
+        "speaker": "A"
+    },
+    {
+        "text": "However, with all the fun things on the side, it takes a big focus away from one of the most important aspects the assassinations.",
+        "start": 35436,
+        "end": 40578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47182124853134155,
+        "speaker": "A"
+    },
+    {
+        "text": "It's becoming less and less about finding your target and finding a way to approach them and then kill them.",
+        "start": 40674,
+        "end": 44534,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8047598004341125,
+        "speaker": "A"
+    },
+    {
+        "text": "There is still some of that in there, but it's not nearly as cool as it has been in the past.",
+        "start": 44572,
+        "end": 47734,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5438188910484314,
+        "speaker": "A"
+    },
+    {
+        "text": "But it still has great gameplay.",
+        "start": 47852,
+        "end": 49378,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8535323143005371,
+        "speaker": "A"
+    },
+    {
+        "text": "And most important importantly, it's absolutely worth your time and money.",
+        "start": 49394,
+        "end": 51742,
+        "sentiment": "POSITIVE",
+        "confidence": 0.939974308013916,
+        "speaker": "A"
+    },
+    {
+        "text": "And it's way better than Assassin's Creed revelations.",
+        "start": 51796,
+        "end": 54330,
+        "sentiment": "POSITIVE",
+        "confidence": 0.47563067078590393,
+        "speaker": "A"
+    },
+    {
+        "text": "Assassin's Creed Three gets a score of an eight out of ten.",
+        "start": 54490,
+        "end": 57580,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8088407516479492,
+        "speaker": "A"
+    }
+]

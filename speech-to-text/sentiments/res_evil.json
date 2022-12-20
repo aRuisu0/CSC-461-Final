@@ -1,0 +1,138 @@
+[
+    {
+        "text": "1 minute reviews.",
+        "start": 410,
+        "end": 1354,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330918908119202,
+        "speaker": "A"
+    },
+    {
+        "text": "Resident Evil six ready?",
+        "start": 1402,
+        "end": 2830,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9147928953170776,
+        "speaker": "A"
+    },
+    {
+        "text": "Go.",
+        "start": 2900,
+        "end": 3374,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5352324843406677,
+        "speaker": "A"
+    },
+    {
+        "text": "Whackluster.",
+        "start": 3492,
+        "end": 4314,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8908980488777161,
+        "speaker": "A"
+    },
+    {
+        "text": "It gives you the gameplay and the controls of an action game.",
+        "start": 4362,
+        "end": 6926,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.674056351184845,
+        "speaker": "A"
+    },
+    {
+        "text": "It gives you the camera of a survival horror game.",
+        "start": 6948,
+        "end": 9182,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7132604718208313,
+        "speaker": "A"
+    },
+    {
+        "text": "It causes everything to be claustrophobic, and you bump into everything and cause the camera to jerk around a lot.",
+        "start": 9236,
+        "end": 13422,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8380465507507324,
+        "speaker": "A"
+    },
+    {
+        "text": "It's filled to the brim with QuickTime events that hardly add to anything, the plots all over the place, and longtime Resident Evil fans aren't going to get much out of it.",
+        "start": 13476,
+        "end": 20622,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7889688611030579,
+        "speaker": "A"
+    },
+    {
+        "text": "On top of that, the cooperative play has been stripped down to a mere Shell 101 once was.",
+        "start": 20676,
+        "end": 25462,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6045442819595337,
+        "speaker": "A"
+    },
+    {
+        "text": "I really like resemble five's cooperative play.",
+        "start": 25516,
+        "end": 27254,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9631319642066956,
+        "speaker": "A"
+    },
+    {
+        "text": "Being able to share weapons, share equipment, resemble Six doesn't have any of that.",
+        "start": 27292,
+        "end": 30870,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6237903833389282,
+        "speaker": "A"
+    },
+    {
+        "text": "On top of that, it's way too easy playing through unprofessional.",
+        "start": 30940,
+        "end": 33682,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9099089503288269,
+        "speaker": "A"
+    },
+    {
+        "text": "I had way too many guns with way too many bullets, and saying that for a Resident Evil game is not something you want to hear.",
+        "start": 33746,
+        "end": 39718,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8817058205604553,
+        "speaker": "A"
+    },
+    {
+        "text": "There is a lot of gameplay here with four campaigns, each one taking about 5 hours.",
+        "start": 39804,
+        "end": 43270,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7380539774894714,
+        "speaker": "A"
+    },
+    {
+        "text": "However, each one is stupider than the last.",
+        "start": 43340,
+        "end": 45654,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8579683303833008,
+        "speaker": "A"
+    },
+    {
+        "text": "Resident Evil fans may still get some enjoyment out of it, but whatever you do, do not pay full price.",
+        "start": 45772,
+        "end": 50430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5664361119270325,
+        "speaker": "A"
+    },
+    {
+        "text": "And if you're somebody who needs a score, Resident Evil Six gets a four out of ten.",
+        "start": 50620,
+        "end": 55180,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6136815547943115,
+        "speaker": "A"
+    }
+]
